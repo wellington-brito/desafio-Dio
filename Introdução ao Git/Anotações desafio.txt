@@ -1,0 +1,6 @@
+Vscode está com um bug no terminal ao tentar fazer push no repositório remoto.
+Exemplo de erro que acontece no meu Vscode: https://stackoverflow.com/questions/60757334/git-push-from-visual-studio-code-no-anonymous-write-access-authentication-fai
+
+Talvez meu vscode esteja desatualizado;
+
+No momento estou fazendo push das alterações via CMD fora do vscode para evitar esse problema.
