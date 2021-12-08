@@ -4,3 +4,5 @@ Exemplo de erro que acontece no meu Vscode: https://stackoverflow.com/questions/
 Talvez meu vscode esteja desatualizado;
 
 No momento estou fazendo push das alterações via CMD fora do vscode para evitar esse problema.
+
+Meu git está solicitando authentication direto via CMD: estou usando esse método pra evitar problema: https://ginnyfahs.medium.com/github-error-authentication-failed-from-command-line-3a545bfd0ca8
